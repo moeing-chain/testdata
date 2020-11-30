@@ -1,0 +1,162 @@
+test create2collisionSelfdestructedOOG_d0g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000000000
+  code 0
+ addr 0xaf3ecba2fe09a4f6c19f16a9d119e44e08c2da01
+  acc_nonce 0
+  balance 1
+  code 4 96 16 255 0
+ addr 0xe2b35478fdd26477cc576dd906e6277761246a3c
+  acc_nonce 0
+  balance 1
+  code 4 96 16 255 0
+ addr 0xec2c6832d00680ece8ff9254f81fdab0a5a2ac50
+  acc_nonce 0
+  balance 1
+  code 4 96 16 255 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000200000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999999999800000
+  code 0
+ addr 0xaf3ecba2fe09a4f6c19f16a9d119e44e08c2da01
+  acc_nonce 0
+  balance 1
+  code 4 96 16 255 0
+ addr 0xe2b35478fdd26477cc576dd906e6277761246a3c
+  acc_nonce 0
+  balance 1
+  code 4 96 16 255 0
+ addr 0xec2c6832d00680ece8ff9254f81fdab0a5a2ac50
+  acc_nonce 0
+  balance 1
+  code 4 96 16 255 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 1000975
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 1
+   gasprice 1
+   gas 200000
+   data 54 96 0 96 0 96 0 96 0 96 0 115 226 179 84 120 253 210 100 119 204 87 109 217 6 230 39 119 97 36 106 60 97 195 80 241 80 96 0 96 0 96 0 96 0 245 80 98 17 34 51 96 0 85 0
+test create2collisionSelfdestructedOOG_d1g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000000000
+  code 0
+ addr 0xaf3ecba2fe09a4f6c19f16a9d119e44e08c2da01
+  acc_nonce 0
+  balance 1
+  code 4 96 16 255 0
+ addr 0xe2b35478fdd26477cc576dd906e6277761246a3c
+  acc_nonce 0
+  balance 1
+  code 4 96 16 255 0
+ addr 0xec2c6832d00680ece8ff9254f81fdab0a5a2ac50
+  acc_nonce 0
+  balance 1
+  code 4 96 16 255 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000200000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999999999800000
+  code 0
+ addr 0xaf3ecba2fe09a4f6c19f16a9d119e44e08c2da01
+  acc_nonce 0
+  balance 1
+  code 4 96 16 255 0
+ addr 0xe2b35478fdd26477cc576dd906e6277761246a3c
+  acc_nonce 0
+  balance 1
+  code 4 96 16 255 0
+ addr 0xec2c6832d00680ece8ff9254f81fdab0a5a2ac50
+  acc_nonce 0
+  balance 1
+  code 4 96 16 255 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 1000975
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 1
+   gasprice 1
+   gas 200000
+   data 63 96 0 96 0 96 0 96 0 96 0 115 175 62 203 162 254 9 164 246 193 159 22 169 209 25 228 78 8 194 218 1 97 195 80 241 80 100 96 1 96 1 85 96 0 82 96 0 96 5 96 27 96 0 245 80 98 17 34 51 96 0 85 0
+test create2collisionSelfdestructedOOG_d2g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000000000
+  code 0
+ addr 0xaf3ecba2fe09a4f6c19f16a9d119e44e08c2da01
+  acc_nonce 0
+  balance 1
+  code 4 96 16 255 0
+ addr 0xe2b35478fdd26477cc576dd906e6277761246a3c
+  acc_nonce 0
+  balance 1
+  code 4 96 16 255 0
+ addr 0xec2c6832d00680ece8ff9254f81fdab0a5a2ac50
+  acc_nonce 0
+  balance 1
+  code 4 96 16 255 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000200000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999999999800000
+  code 0
+ addr 0xaf3ecba2fe09a4f6c19f16a9d119e44e08c2da01
+  acc_nonce 0
+  balance 1
+  code 4 96 16 255 0
+ addr 0xe2b35478fdd26477cc576dd906e6277761246a3c
+  acc_nonce 0
+  balance 1
+  code 4 96 16 255 0
+ addr 0xec2c6832d00680ece8ff9254f81fdab0a5a2ac50
+  acc_nonce 0
+  balance 1
+  code 4 96 16 255 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 1000975
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 1
+   gasprice 1
+   gas 200000
+   data 72 96 0 96 0 96 0 96 0 96 0 115 236 44 104 50 208 6 128 236 232 255 146 84 248 31 218 176 165 162 172 80 97 195 80 241 80 109 100 96 1 96 1 85 96 0 82 96 5 96 27 243 96 0 82 96 0 96 14 96 18 96 0 245 80 98 17 34 51 96 0 85 0

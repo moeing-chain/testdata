@@ -1,0 +1,84 @@
+test create2collisionCode2_d0g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000000000
+  code 0
+ addr 0xfce41d047b4a1d4450382dcc29ec7e5fedc5f9a3
+  acc_nonce 1
+  balance 0
+  code 3 1 2 3
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000395085
+  code 0
+ addr 0x6295ee1b4f6dd65047762f924ecd367c17eabf8f
+  acc_nonce 2
+  balance 1
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999999999604914
+  code 0
+ addr 0xfce41d047b4a1d4450382dcc29ec7e5fedc5f9a3
+  acc_nonce 1
+  balance 0
+  code 3 1 2 3
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 1000975
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 1
+   gasprice 1
+   gas 400000
+   data 26 107 98 1 2 3 96 0 82 96 3 96 29 243 96 0 82 96 0 96 12 96 20 96 0 245 0
+test create2collisionCode2_d1g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000000000
+  code 0
+ addr 0xfce41d047b4a1d4450382dcc29ec7e5fedc5f9a3
+  acc_nonce 1
+  balance 0
+  code 3 1 2 3
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000395085
+  code 0
+ addr 0x6295ee1b4f6dd65047762f924ecd367c17eabf8f
+  acc_nonce 2
+  balance 1
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999999999604914
+  code 0
+ addr 0xfce41d047b4a1d4450382dcc29ec7e5fedc5f9a3
+  acc_nonce 1
+  balance 0
+  code 3 1 2 3
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 1000975
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 1
+   gasprice 1
+   gas 400000
+   data 26 107 98 1 2 3 96 0 82 96 3 96 29 243 96 0 82 96 0 96 12 96 20 96 1 245 0

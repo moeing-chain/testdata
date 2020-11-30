@@ -1,0 +1,2430 @@
+test shallowStack_d0g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 1 96 0 85
+test shallowStack_d10g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 11 96 0 85
+test shallowStack_d11g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 16 96 0 85
+test shallowStack_d12g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 17 96 0 85
+test shallowStack_d13g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 18 96 0 85
+test shallowStack_d14g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 19 96 0 85
+test shallowStack_d15g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 20 96 0 85
+test shallowStack_d16g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 4 21 96 0 85
+test shallowStack_d17g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 22 96 0 85
+test shallowStack_d18g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 23 96 0 85
+test shallowStack_d19g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 24 96 0 85
+test shallowStack_d1g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 2 96 0 85
+test shallowStack_d20g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 4 25 96 0 85
+test shallowStack_d21g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 26 96 0 85
+test shallowStack_d22g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 32 96 0 85
+test shallowStack_d23g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 4 49 96 0 85
+test shallowStack_d24g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 4 53 96 0 85
+test shallowStack_d25g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 8 96 1 96 2 55 96 0 85
+test shallowStack_d26g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 8 96 1 96 2 57 96 0 85
+test shallowStack_d27g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 4 59 96 0 85
+test shallowStack_d28g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 10 96 1 96 2 96 3 60 96 0 85
+test shallowStack_d29g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 4 64 96 0 85
+test shallowStack_d2g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 3 96 0 85
+test shallowStack_d30g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 4 80 96 0 85
+test shallowStack_d31g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 4 81 96 0 85
+test shallowStack_d32g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 82 96 0 85
+test shallowStack_d33g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 83 96 0 85
+test shallowStack_d34g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 4 84 96 0 85
+test shallowStack_d35g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 85 96 0 85
+test shallowStack_d36g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 4 86 96 0 85
+test shallowStack_d37g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 87 96 0 85
+test shallowStack_d38g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 4 128 96 0 85
+test shallowStack_d39g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 129 96 0 85
+test shallowStack_d3g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 4 96 0 85
+test shallowStack_d40g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 8 96 2 96 1 130 96 0 85
+test shallowStack_d41g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 10 96 3 96 2 96 1 131 96 0 85
+test shallowStack_d42g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 12 96 4 96 3 96 2 96 1 132 96 0 85
+test shallowStack_d43g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 14 96 5 96 4 96 3 96 2 96 1 133 96 0 85
+test shallowStack_d44g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 16 96 6 96 5 96 4 96 3 96 2 96 1 134 96 0 85
+test shallowStack_d45g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 18 96 7 96 6 96 5 96 4 96 3 96 2 96 1 135 96 0 85
+test shallowStack_d46g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 20 96 8 96 7 96 6 96 5 96 4 96 3 96 2 96 1 136 96 0 85
+test shallowStack_d47g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 22 96 9 96 8 96 7 96 6 96 5 96 4 96 3 96 2 96 1 137 96 0 85
+test shallowStack_d48g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 24 96 16 96 9 96 8 96 7 96 6 96 5 96 4 96 3 96 2 96 1 138 96 0 85
+test shallowStack_d49g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 26 96 17 96 16 96 9 96 8 96 7 96 6 96 5 96 4 96 3 96 2 96 1 139 96 0 85
+test shallowStack_d4g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 5 96 0 85
+test shallowStack_d50g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 28 96 18 96 17 96 16 96 9 96 8 96 7 96 6 96 5 96 4 96 3 96 2 96 1 140 96 0 85
+test shallowStack_d51g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 30 96 19 96 18 96 17 96 16 96 9 96 8 96 7 96 6 96 5 96 4 96 3 96 2 96 1 141 96 0 85
+test shallowStack_d52g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 32 96 20 96 19 96 18 96 17 96 16 96 9 96 8 96 7 96 6 96 5 96 4 96 3 96 2 96 1 142 96 0 85
+test shallowStack_d53g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 30 96 19 96 18 96 17 96 16 96 9 96 8 96 7 96 6 96 5 96 4 96 3 96 2 96 1 143 96 0 85
+test shallowStack_d54g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 144 96 0 85
+test shallowStack_d55g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 8 96 2 96 1 145 96 0 85
+test shallowStack_d56g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 10 96 3 96 2 96 1 146 96 0 85
+test shallowStack_d57g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 12 96 4 96 3 96 2 96 1 147 96 0 85
+test shallowStack_d58g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 14 96 5 96 4 96 3 96 2 96 1 148 96 0 85
+test shallowStack_d59g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 16 96 6 96 5 96 4 96 3 96 2 96 1 149 96 0 85
+test shallowStack_d5g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 6 96 0 85
+test shallowStack_d60g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 18 96 7 96 6 96 5 96 4 96 3 96 2 96 1 150 96 0 85
+test shallowStack_d61g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 20 96 8 96 7 96 6 96 5 96 4 96 3 96 2 96 1 151 96 0 85
+test shallowStack_d62g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 22 96 9 96 8 96 7 96 6 96 5 96 4 96 3 96 2 96 1 152 96 0 85
+test shallowStack_d63g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 24 96 16 96 9 96 8 96 7 96 6 96 5 96 4 96 3 96 2 96 1 153 96 0 85
+test shallowStack_d64g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 26 96 17 96 16 96 9 96 8 96 7 96 6 96 5 96 4 96 3 96 2 96 1 154 96 0 85
+test shallowStack_d65g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 28 96 18 96 17 96 16 96 9 96 8 96 7 96 6 96 5 96 4 96 3 96 2 96 1 155 96 0 85
+test shallowStack_d66g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 30 96 19 96 18 96 17 96 16 96 9 96 8 96 7 96 6 96 5 96 4 96 3 96 2 96 1 156 96 0 85
+test shallowStack_d67g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 32 96 20 96 19 96 18 96 17 96 16 96 9 96 8 96 7 96 6 96 5 96 4 96 3 96 2 96 1 157 96 0 85
+test shallowStack_d68g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 34 96 21 96 20 96 19 96 18 96 17 96 16 96 9 96 8 96 7 96 6 96 5 96 4 96 3 96 2 96 1 158 96 0 85
+test shallowStack_d69g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 28 96 18 96 17 96 16 96 9 96 8 96 7 96 6 96 5 96 4 96 3 96 2 96 1 159 96 0 85
+test shallowStack_d6g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 7 96 0 85
+test shallowStack_d70g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 160 96 0 85
+test shallowStack_d71g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 8 96 2 96 1 161 96 0 85
+test shallowStack_d72g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 10 96 3 96 2 96 1 162 96 0 85
+test shallowStack_d73g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 12 96 4 96 3 96 2 96 1 163 96 0 85
+test shallowStack_d74g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 14 96 5 96 4 96 3 96 2 96 1 164 96 0 85
+test shallowStack_d75g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 8 96 2 96 1 240 96 0 85
+test shallowStack_d76g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 16 96 6 96 5 96 4 96 3 96 2 96 1 241 96 0 85
+test shallowStack_d77g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 16 96 6 96 5 96 4 96 3 96 2 96 1 242 96 0 85
+test shallowStack_d78g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 243 96 0 85
+test shallowStack_d79g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 14 96 5 96 4 96 3 96 2 96 1 244 96 0 85
+test shallowStack_d7g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 8 96 2 96 1 8 96 0 85
+test shallowStack_d80g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 4 255 96 0 85
+test shallowStack_d8g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 8 96 2 96 1 9 96 0 85
+test shallowStack_d9g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 42949672960000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000300000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 42949672660000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 42991615999
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 300000
+   data 6 96 1 10 96 0 85

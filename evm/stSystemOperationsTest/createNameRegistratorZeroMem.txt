@@ -1,0 +1,43 @@
+test createNameRegistratorZeroMem_d0g0v0_Istanbul
+pre
+ addr 0x095e7baea6a6c7c4c2dfeb977efac326af552d87
+  acc_nonce 0
+  balance 1000000000000000000
+  code 44 124 96 16 128 96 12 96 0 57 96 0 243 0 96 0 53 84 21 96 9 87 0 91 96 32 53 96 0 53 85 96 0 82 96 0 96 3 96 23 240 96 0 85 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000000000
+  code 0
+post
+ addr 0x095e7baea6a6c7c4c2dfeb977efac326af552d87
+  acc_nonce 1
+  balance 1000000000000099977
+  code 44 124 96 16 128 96 12 96 0 57 96 0 243 0 96 0 53 84 21 96 9 87 0 91 96 32 53 96 0 53 85 96 0 82 96 0 96 3 96 23 240 96 0 85 0
+   kv 0x0000000000000000000000000000000000000000000000000000000000000000 0x000000000000000000000000d2571607e241ecf590ed94b12d87c94babe36db6
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000073024
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999999999826976
+  code 0
+ addr 0xd2571607e241ecf590ed94b12d87c94babe36db6
+  acc_nonce 1
+  balance 23
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 1000975
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x095e7baea6a6c7c4c2dfeb977efac326af552d87
+   value 100000
+   gasprice 1
+   gas 300000
+   data 0

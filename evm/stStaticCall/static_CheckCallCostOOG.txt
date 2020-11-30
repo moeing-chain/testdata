@@ -1,0 +1,92 @@
+test static_CheckCallCostOOG_d0g0v0_Istanbul
+pre
+ addr 0x1000000000000000000000000000000000000000
+  acc_nonce 0
+  balance 0
+  code 33 96 0 96 0 96 0 96 0 115 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 96 100 250 0
+ addr 0x2000000000000000000000000000000000000000
+  acc_nonce 0
+  balance 0
+  code 6 96 1 96 1 82 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000
+  code 0
+post
+ addr 0x1000000000000000000000000000000000000000
+  acc_nonce 0
+  balance 0
+  code 33 96 0 96 0 96 0 96 0 115 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 96 100 250 0
+ addr 0x2000000000000000000000000000000000000000
+  acc_nonce 0
+  balance 0
+  code 6 96 1 96 1 82 0
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000021700
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999978300
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 10009764
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x1000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 21700
+   data 0
+test static_CheckCallCostOOG_d0g1v0_Istanbul
+pre
+ addr 0x1000000000000000000000000000000000000000
+  acc_nonce 0
+  balance 0
+  code 33 96 0 96 0 96 0 96 0 115 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 96 100 250 0
+ addr 0x2000000000000000000000000000000000000000
+  acc_nonce 0
+  balance 0
+  code 6 96 1 96 1 82 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000
+  code 0
+post
+ addr 0x1000000000000000000000000000000000000000
+  acc_nonce 0
+  balance 0
+  code 33 96 0 96 0 96 0 96 0 115 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 96 100 250 0
+ addr 0x2000000000000000000000000000000000000000
+  acc_nonce 0
+  balance 0
+  code 6 96 1 96 1 82 0
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000021733
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999978267
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 10009764
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x1000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 21800
+   data 0

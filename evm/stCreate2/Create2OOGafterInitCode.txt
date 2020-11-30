@@ -1,0 +1,80 @@
+test Create2OOGafterInitCode_d0g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000
+  code 0
+ addr 0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 0
+  code 28 109 100 96 1 96 1 85 96 0 82 96 5 96 27 243 96 0 82 96 0 96 14 96 18 96 0 245 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000053985
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999946015
+  code 0
+ addr 0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 0
+  code 28 109 100 96 1 96 1 85 96 0 82 96 5 96 27 243 96 0 82 96 0 96 14 96 18 96 0 245 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 10009764
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   value 0
+   gasprice 1
+   gas 54000
+   data 0
+test Create2OOGafterInitCode_d0g1v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000
+  code 0
+ addr 0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 0
+  code 28 109 100 96 1 96 1 85 96 0 82 96 5 96 27 243 96 0 82 96 0 96 14 96 18 96 0 245 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000054048
+  code 0
+ addr 0x6878b140f875209c82ab4d5f083b55947299ef6b
+  acc_nonce 1
+  balance 0
+  code 5 96 1 96 1 85
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999945952
+  code 0
+ addr 0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 0
+  code 28 109 100 96 1 96 1 85 96 0 82 96 5 96 27 243 96 0 82 96 0 96 14 96 18 96 0 245 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 10009764
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   value 0
+   gasprice 1
+   gas 55000
+   data 0

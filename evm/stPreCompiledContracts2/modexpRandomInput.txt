@@ -1,0 +1,180 @@
+test modexpRandomInput_d0g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000000000000
+  code 0
+post
+ addr 0x3535353535353535353535353535353535353535
+  acc_nonce 0
+  balance 2000000000000022820
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999999999999977180
+  code 0
+blocks
+ block 0
+  coinbase 0x3535353535353535353535353535353535353535
+  height 1
+  difficulty 131072
+  gaslimit 100097655
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000005
+   value 0
+   gasprice 1
+   gas 710000
+   data 57 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 227 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+test modexpRandomInput_d0g1v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000000000000
+  code 0
+post
+ addr 0x3535353535353535353535353535353535353535
+  acc_nonce 0
+  balance 2000000000000022820
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999999999999977180
+  code 0
+blocks
+ block 0
+  coinbase 0x3535353535353535353535353535353535353535
+  height 1
+  difficulty 131072
+  gaslimit 100097655
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000005
+   value 0
+   gasprice 1
+   gas 7000000
+   data 57 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 227 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+test modexpRandomInput_d1g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000000000000
+  code 0
+post
+ addr 0x3535353535353535353535353535353535353535
+  acc_nonce 0
+  balance 2000000000000710000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999999999999290000
+  code 0
+blocks
+ block 0
+  coinbase 0x3535353535353535353535353535353535353535
+  height 1
+  difficulty 131072
+  gaslimit 100097655
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000005
+   value 0
+   gasprice 1
+   gas 710000
+   data 48 0 0 0 0 0 128 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 10
+test modexpRandomInput_d1g1v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000000000000
+  code 0
+post
+ addr 0x3535353535353535353535353535353535353535
+  acc_nonce 0
+  balance 2000000000007000000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999999999993000000
+  code 0
+blocks
+ block 0
+  coinbase 0x3535353535353535353535353535353535353535
+  height 1
+  difficulty 131072
+  gaslimit 100097655
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000005
+   value 0
+   gasprice 1
+   gas 7000000
+   data 48 0 0 0 0 0 128 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 10
+test modexpRandomInput_d2g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000000000000
+  code 0
+post
+ addr 0x3535353535353535353535353535353535353535
+  acc_nonce 0
+  balance 2000000000000710000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999999999999290000
+  code 0
+blocks
+ block 0
+  coinbase 0x3535353535353535353535353535353535353535
+  height 1
+  difficulty 131072
+  gaslimit 100097655
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000005
+   value 0
+   gasprice 1
+   gas 710000
+   data 128 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 20 112 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 22 96 53 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8
+test modexpRandomInput_d2g1v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000000000000
+  code 0
+post
+ addr 0x3535353535353535353535353535353535353535
+  acc_nonce 0
+  balance 2000000000007000000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999999999993000000
+  code 0
+blocks
+ block 0
+  coinbase 0x3535353535353535353535353535353535353535
+  height 1
+  difficulty 131072
+  gaslimit 100097655
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000005
+   value 0
+   gasprice 1
+   gas 7000000
+   data 128 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 20 112 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 22 96 53 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8

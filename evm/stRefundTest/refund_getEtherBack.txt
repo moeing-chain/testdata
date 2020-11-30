@@ -1,0 +1,39 @@
+test refund_getEtherBack_d0g0v0_Istanbul
+pre
+ addr 0x095e7baea6a6c7c4c2dfeb977efac326af552d87
+  acc_nonce 0
+  balance 1000000000000000000
+  code 6 96 0 96 1 85 0
+   kv 0x0000000000000000000000000000000000000000000000000000000000000001 0x0000000000000000000000000000000000000000000000000000000000000001
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 2285000
+  code 0
+post
+ addr 0x095e7baea6a6c7c4c2dfeb977efac326af552d87
+  acc_nonce 0
+  balance 1000000000000000010
+  code 6 96 0 96 1 85 0
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000013003
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 2271987
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 228722
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x095e7baea6a6c7c4c2dfeb977efac326af552d87
+   value 10
+   gasprice 1
+   gas 228500
+   data 0

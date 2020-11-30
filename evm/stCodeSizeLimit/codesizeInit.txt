@@ -1,0 +1,35 @@
+test codesizeInit_d0g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000074658
+  code 0
+ addr 0x6295ee1b4f6dd65047762f924ecd367c17eabf8f
+  acc_nonce 1
+  balance 0
+  code 0
+   kv 0x0000000000000000000000000000000000000000000000000000000000000001 0x000000000000000000000000000000000000000000000000000000000000000a
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999925342
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 20019530
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 15000000
+   data 10 56 96 1 85 48 59 96 2 85 0

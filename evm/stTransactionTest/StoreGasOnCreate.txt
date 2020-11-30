@@ -1,0 +1,39 @@
+test StoreGasOnCreate_d0g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 400000
+  code 0
+ addr 0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 0
+  code 16 99 90 96 253 85 96 0 82 96 4 96 28 96 0 240 0
+post
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 326874
+  code 0
+ addr 0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 2000000000000073126
+  code 16 99 90 96 253 85 96 0 82 96 4 96 28 96 0 240 0
+ addr 0xf1ecf98489fa9ed60a664fc4998db699cfa39d40
+  acc_nonce 1
+  balance 0
+  code 0
+   kv 0x00000000000000000000000000000000000000000000000000000000000000fd 0x0000000000000000000000000000000000000000000000000000000000012f3b
+blocks
+ block 0
+  coinbase 0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  height 1
+  difficulty 131072
+  gaslimit 1000975
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   value 100
+   gasprice 1
+   gas 131882
+   data 0

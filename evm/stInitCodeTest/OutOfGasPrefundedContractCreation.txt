@@ -1,0 +1,119 @@
+test OutOfGasPrefundedContractCreation_d0g0v0_Istanbul
+pre
+ addr 0x6295ee1b4f6dd65047762f924ecd367c17eabf8f
+  acc_nonce 0
+  balance 1
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000316101
+  code 0
+ addr 0x6295ee1b4f6dd65047762f924ecd367c17eabf8f
+  acc_nonce 2
+  balance 1
+  code 0
+ addr 0x64e2ebd6405af8cb348aec519084d3fff42ebba6
+  acc_nonce 1
+  balance 1
+  code 0
+   kv 0x0000000000000000000000000000000000000000000000000000000000000000 0x0000000000000000000000000000000000000000000000000000000000112233
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 683898
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 100097655
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 1
+   gasprice 3
+   gas 154000
+   data 26 96 9 128 96 17 96 0 57 96 0 96 1 240 80 0 0 254 98 17 34 51 96 0 85 0 0
+test OutOfGasPrefundedContractCreation_d0g1v0_Istanbul
+pre
+ addr 0x6295ee1b4f6dd65047762f924ecd367c17eabf8f
+  acc_nonce 0
+  balance 1
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000195000
+  code 0
+ addr 0x6295ee1b4f6dd65047762f924ecd367c17eabf8f
+  acc_nonce 0
+  balance 1
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 805000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 100097655
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 1
+   gasprice 3
+   gas 65000
+   data 26 96 9 128 96 17 96 0 57 96 0 96 1 240 80 0 0 254 98 17 34 51 96 0 85 0 0
+test OutOfGasPrefundedContractCreation_d0g2v0_Istanbul
+pre
+ addr 0x6295ee1b4f6dd65047762f924ecd367c17eabf8f
+  acc_nonce 0
+  balance 1
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000284556
+  code 0
+ addr 0x6295ee1b4f6dd65047762f924ecd367c17eabf8f
+  acc_nonce 2
+  balance 2
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 715443
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 100097655
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 1
+   gasprice 3
+   gas 95000
+   data 26 96 9 128 96 17 96 0 57 96 0 96 1 240 80 0 0 254 98 17 34 51 96 0 85 0 0

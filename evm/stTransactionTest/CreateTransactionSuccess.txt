@@ -1,0 +1,34 @@
+test CreateTransactionSuccess_d0g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 100000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000060482
+  code 0
+ addr 0x6295ee1b4f6dd65047762f924ecd367c17eabf8f
+  acc_nonce 1
+  balance 100
+  code 34 96 224 96 2 10 96 0 53 4 128 99 248 168 253 109 20 96 20 87 0 91 96 26 96 32 86 91 96 0 96 0 243 91 86
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 39418
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 1000976562499
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 100
+   gasprice 1
+   gas 70000
+   data 46 96 34 128 96 12 96 0 57 96 0 243 0 96 224 96 2 10 96 0 53 4 128 99 248 168 253 109 20 96 20 87 0 91 96 26 96 32 86 91 96 0 96 0 243 91 86

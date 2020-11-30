@@ -1,0 +1,54 @@
+test CallGoesOOGOnSecondLevel2_d0g0v0_Istanbul
+pre
+ addr 0x1000000000000000000000000000000000000113
+  acc_nonce 0
+  balance 0
+  code 44 90 96 8 85 96 0 96 0 96 0 96 0 96 0 115 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 20 98 9 39 192 241 96 9 85 0
+ addr 0x1000000000000000000000000000000000000114
+  acc_nonce 0
+  balance 0
+  code 13 90 96 8 85 90 96 9 85 90 96 10 85 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000
+  code 0
+ addr 0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 0
+  code 44 90 96 8 85 96 0 96 0 96 0 96 0 96 0 115 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 19 98 9 39 192 241 96 9 85 0
+post
+ addr 0x1000000000000000000000000000000000000113
+  acc_nonce 0
+  balance 0
+  code 44 90 96 8 85 96 0 96 0 96 0 96 0 96 0 115 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 20 98 9 39 192 241 96 9 85 0
+ addr 0x1000000000000000000000000000000000000114
+  acc_nonce 0
+  balance 0
+  code 13 90 96 8 85 90 96 9 85 90 96 10 85 0
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000160000
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999840000
+  code 0
+ addr 0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 0
+  code 44 90 96 8 85 96 0 96 0 96 0 96 0 96 0 115 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 19 98 9 39 192 241 96 9 85 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 10009764
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   value 0
+   gasprice 1
+   gas 160000
+   data 0

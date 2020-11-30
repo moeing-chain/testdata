@@ -1,0 +1,38 @@
+test push32withoutByte_d0g0v0_Istanbul
+pre
+ addr 0x0dc02922f33e45537411b9f92a1dcc9750ba9932
+  acc_nonce 0
+  balance 0
+  code 11 127 17 34 51 68 85 102 119 136 153 16
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 1000000000000000000
+  code 0
+post
+ addr 0x0dc02922f33e45537411b9f92a1dcc9750ba9932
+  acc_nonce 0
+  balance 0
+  code 11 127 17 34 51 68 85 102 119 136 153 16
+ addr 0x68795c4aa09d6f4ed3e5deddf8c2ad3049a601da
+  acc_nonce 0
+  balance 2000000000000021003
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 2
+  balance 999999999999978997
+  code 0
+blocks
+ block 0
+  coinbase 0x68795c4aa09d6f4ed3e5deddf8c2ad3049a601da
+  height 1
+  difficulty 131072
+  gaslimit 3144658
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 1
+   to 0x0dc02922f33e45537411b9f92a1dcc9750ba9932
+   value 0
+   gasprice 1
+   gas 500000
+   data 0

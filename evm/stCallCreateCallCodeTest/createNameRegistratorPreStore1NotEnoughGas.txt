@@ -1,0 +1,38 @@
+test createNameRegistratorPreStore1NotEnoughGas_d0g0v0_Istanbul
+pre
+ addr 0x095e7baea6a6c7c4c2dfeb977efac326af552d87
+  acc_nonce 0
+  balance 1000000000000000000
+  code 54 127 96 1 96 1 85 96 16 128 96 12 96 0 57 96 0 243 0 96 0 53 84 21 96 9 87 0 91 96 32 53 96 0 96 0 82 96 53 96 32 83 96 85 96 33 83 96 34 96 0 96 23 240 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000000000
+  code 0
+post
+ addr 0x095e7baea6a6c7c4c2dfeb977efac326af552d87
+  acc_nonce 1
+  balance 1000000000000100000
+  code 54 127 96 1 96 1 85 96 16 128 96 12 96 0 57 96 0 243 0 96 0 53 84 21 96 9 87 0 91 96 32 53 96 0 96 0 82 96 53 96 32 83 96 85 96 33 83 96 34 96 0 96 23 240 0
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000072759
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999999999827241
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 100097655
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x095e7baea6a6c7c4c2dfeb977efac326af552d87
+   value 100000
+   gasprice 1
+   gas 73071
+   data 0

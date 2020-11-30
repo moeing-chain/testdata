@@ -1,0 +1,46 @@
+test InternalCallHittingGasLimit2_d0g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000
+  code 0
+ addr 0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 0
+  code 36 96 0 96 0 96 0 96 0 96 1 115 201 79 83 116 252 229 237 188 142 42 134 151 193 83 49 103 126 110 191 11 97 97 168 241 0
+ addr 0xc94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 0
+  code 6 96 55 96 1 85 0
+post
+ addr 0x2adf5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 2000000000000047500
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 952490
+  code 0
+ addr 0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 10
+  code 36 96 0 96 0 96 0 96 0 96 1 115 201 79 83 116 252 229 237 188 142 42 134 151 193 83 49 103 126 110 191 11 97 97 168 241 0
+ addr 0xc94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 0
+  code 6 96 55 96 1 85 0
+blocks
+ block 0
+  coinbase 0x2adf5374fce5edbc8e2a8697c15331677e6ebf0b
+  height 1
+  difficulty 131072
+  gaslimit 47811
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   value 10
+   gasprice 1
+   gas 47766
+   data 0

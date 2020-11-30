@@ -1,0 +1,38 @@
+test call_OOG_additionalGasCosts1_d0g0v0_Istanbul
+pre
+ addr 0x1000000000000000000000000000000000000000
+  acc_nonce 0
+  balance 1000000000000000000
+  code 36 96 64 96 0 96 64 96 0 96 0 115 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 97 23 112 241 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000000000
+  code 0
+post
+ addr 0x1000000000000000000000000000000000000000
+  acc_nonce 0
+  balance 1000000000000000000
+  code 36 96 64 96 0 96 64 96 0 96 0 115 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 97 23 112 241 0
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000021727
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999999999978273
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 3002929686
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x1000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 30000
+   data 0

@@ -1,0 +1,152 @@
+test RevertOpcode_d0g0v0_Istanbul
+pre
+ addr 0xa000000000000000000000000000000000000000
+  acc_nonce 0
+  balance 0
+  code 15 96 1 96 0 85 96 1 96 0 253 96 17 96 1 85
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000041015
+  code 0
+ addr 0xa000000000000000000000000000000000000000
+  acc_nonce 0
+  balance 0
+  code 15 96 1 96 0 85 96 1 96 0 253 96 17 96 1 85
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999958985
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 10009764
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0xa000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 800000
+   data 0
+test RevertOpcode_d0g0v1_Istanbul
+pre
+ addr 0xa000000000000000000000000000000000000000
+  acc_nonce 0
+  balance 0
+  code 15 96 1 96 0 85 96 1 96 0 253 96 17 96 1 85
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000041015
+  code 0
+ addr 0xa000000000000000000000000000000000000000
+  acc_nonce 0
+  balance 0
+  code 15 96 1 96 0 85 96 1 96 0 253 96 17 96 1 85
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999958985
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 10009764
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0xa000000000000000000000000000000000000000
+   value 10
+   gasprice 1
+   gas 800000
+   data 0
+test RevertOpcode_d0g1v0_Istanbul
+pre
+ addr 0xa000000000000000000000000000000000000000
+  acc_nonce 0
+  balance 0
+  code 15 96 1 96 0 85 96 1 96 0 253 96 17 96 1 85
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000030000
+  code 0
+ addr 0xa000000000000000000000000000000000000000
+  acc_nonce 0
+  balance 0
+  code 15 96 1 96 0 85 96 1 96 0 253 96 17 96 1 85
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999970000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 10009764
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0xa000000000000000000000000000000000000000
+   value 0
+   gasprice 1
+   gas 30000
+   data 0
+test RevertOpcode_d0g1v1_Istanbul
+pre
+ addr 0xa000000000000000000000000000000000000000
+  acc_nonce 0
+  balance 0
+  code 15 96 1 96 0 85 96 1 96 0 253 96 17 96 1 85
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000
+  code 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000030000
+  code 0
+ addr 0xa000000000000000000000000000000000000000
+  acc_nonce 0
+  balance 0
+  code 15 96 1 96 0 85 96 1 96 0 253 96 17 96 1 85
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999970000
+  code 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 10009764
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0xa000000000000000000000000000000000000000
+   value 10
+   gasprice 1
+   gas 30000
+   data 0

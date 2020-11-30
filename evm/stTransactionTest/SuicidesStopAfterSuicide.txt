@@ -1,0 +1,42 @@
+test SuicidesStopAfterSuicide_d0g0v0_Istanbul
+pre
+ addr 0x0000000000000000000000000000000000000000
+  acc_nonce 0
+  balance 1110
+  code 4 96 1 255 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 122000
+  code 0
+ addr 0xc94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 10000
+  code 20 96 0 255 96 0 96 0 96 0 96 0 96 0 96 0 97 117 48 241 0
+post
+ addr 0x0000000000000000000000000000000000000000
+  acc_nonce 0
+  balance 11120
+  code 4 96 1 255 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 108988
+  code 0
+ addr 0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 2000000000000013002
+  code 0
+blocks
+ block 0
+  coinbase 0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  height 1
+  difficulty 131072
+  gaslimit 100096
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0xc94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   value 10
+   gasprice 1
+   gas 83700
+   data 0
