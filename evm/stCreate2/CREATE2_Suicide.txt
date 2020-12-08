@@ -1,0 +1,432 @@
+test CREATE2_Suicide_d0g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000
+  code 12 97 48 255 96 0 82 96 2 96 30 243 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000066257
+  code 0
+ addr 0x6295ee1b4f6dd65047762f924ecd367c17eabf8f
+  acc_nonce 2
+  balance 10
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999933733
+  code 12 97 48 255 96 0 82 96 2 96 30 243 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 10009764
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 10
+   gasprice 1
+   gas 600000
+   data 17 98 96 1 255 96 0 82 96 0 96 3 96 29 96 0 245 0
+test CREATE2_Suicide_d10g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000
+  code 12 97 48 255 96 0 82 96 2 96 30 243 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000237020
+  code 0
+ addr 0x6295ee1b4f6dd65047762f924ecd367c17eabf8f
+  acc_nonce 2
+  balance 10
+  code 0
+ addr 0x6cd0e5133771823da00d4cb545ec8cdab0e38203
+  acc_nonce 1
+  balance 0
+  code 2 48 255
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999762970
+  code 12 97 48 255 96 0 82 96 2 96 30 243 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 10009764
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 10
+   gasprice 1
+   gas 600000
+   data 60 106 97 48 255 96 0 82 96 2 96 30 243 96 0 82 96 0 96 11 96 21 96 0 245 80 96 0 96 0 96 0 96 0 115 108 208 229 19 55 113 130 61 160 13 76 181 69 236 140 218 176 227 130 3 98 2 73 240 250 0
+test CREATE2_Suicide_d11g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000
+  code 12 97 48 255 96 0 82 96 2 96 30 243 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000237032
+  code 0
+ addr 0x6295ee1b4f6dd65047762f924ecd367c17eabf8f
+  acc_nonce 2
+  balance 9
+  code 0
+ addr 0x6cd0e5133771823da00d4cb545ec8cdab0e38203
+  acc_nonce 1
+  balance 1
+  code 2 48 255
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999762958
+  code 12 97 48 255 96 0 82 96 2 96 30 243 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 10009764
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 10
+   gasprice 1
+   gas 600000
+   data 60 106 97 48 255 96 0 82 96 2 96 30 243 96 0 82 96 0 96 11 96 21 96 1 245 80 96 0 96 0 96 0 96 0 115 108 208 229 19 55 113 130 61 160 13 76 181 69 236 140 218 176 227 130 3 98 2 73 240 250 0
+test CREATE2_Suicide_d1g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000
+  code 12 97 48 255 96 0 82 96 2 96 30 243 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000068262
+  code 0
+ addr 0x6295ee1b4f6dd65047762f924ecd367c17eabf8f
+  acc_nonce 2
+  balance 10
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999931728
+  code 12 97 48 255 96 0 82 96 2 96 30 243 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 10009764
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 10
+   gasprice 1
+   gas 600000
+   data 63 107 98 96 1 255 96 0 82 96 3 96 29 243 96 0 82 96 0 96 12 96 20 96 0 245 80 96 0 96 0 96 0 96 0 96 0 115 86 73 82 122 132 100 168 108 174 87 151 25 211 71 6 95 110 178 114 121 98 2 73 240 241 0
+test CREATE2_Suicide_d2g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000
+  code 12 97 48 255 96 0 82 96 2 96 30 243 0
+post
+ addr 0x0000000000000000000000000000000000000001
+  acc_nonce 0
+  balance 1
+  code 0
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000091269
+  code 0
+ addr 0x6295ee1b4f6dd65047762f924ecd367c17eabf8f
+  acc_nonce 2
+  balance 9
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999908721
+  code 12 97 48 255 96 0 82 96 2 96 30 243 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 10009764
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 10
+   gasprice 1
+   gas 600000
+   data 17 98 96 1 255 96 0 82 96 0 96 3 96 29 96 1 245 0
+test CREATE2_Suicide_d3g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000
+  code 12 97 48 255 96 0 82 96 2 96 30 243 0
+post
+ addr 0x0000000000000000000000000000000000000001
+  acc_nonce 0
+  balance 1
+  code 0
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000093274
+  code 0
+ addr 0x6295ee1b4f6dd65047762f924ecd367c17eabf8f
+  acc_nonce 2
+  balance 9
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999906716
+  code 12 97 48 255 96 0 82 96 2 96 30 243 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 10009764
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 10
+   gasprice 1
+   gas 600000
+   data 63 107 98 96 1 255 96 0 82 96 3 96 29 243 96 0 82 96 0 96 12 96 20 96 1 245 80 96 0 96 0 96 0 96 0 96 0 115 86 73 82 122 132 100 168 108 174 87 151 25 211 71 6 95 110 178 114 121 98 2 73 240 241 0
+test CREATE2_Suicide_d4g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000
+  code 12 97 48 255 96 0 82 96 2 96 30 243 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000066240
+  code 0
+ addr 0x6295ee1b4f6dd65047762f924ecd367c17eabf8f
+  acc_nonce 2
+  balance 10
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999933750
+  code 12 97 48 255 96 0 82 96 2 96 30 243 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 10009764
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 10
+   gasprice 1
+   gas 600000
+   data 16 97 48 255 96 0 82 96 0 96 2 96 30 96 0 245 0
+test CREATE2_Suicide_d5g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000
+  code 12 97 48 255 96 0 82 96 2 96 30 243 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000068045
+  code 0
+ addr 0x6295ee1b4f6dd65047762f924ecd367c17eabf8f
+  acc_nonce 2
+  balance 10
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999931945
+  code 12 97 48 255 96 0 82 96 2 96 30 243 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 10009764
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 10
+   gasprice 1
+   gas 600000
+   data 62 106 97 48 255 96 0 82 96 2 96 30 243 96 0 82 96 0 96 11 96 21 96 0 245 80 96 0 96 0 96 0 96 0 96 0 115 108 208 229 19 55 113 130 61 160 13 76 181 69 236 140 218 176 227 130 3 98 2 73 240 241 0
+test CREATE2_Suicide_d6g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000
+  code 12 97 48 255 96 0 82 96 2 96 30 243 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000066252
+  code 0
+ addr 0x6295ee1b4f6dd65047762f924ecd367c17eabf8f
+  acc_nonce 2
+  balance 9
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999933738
+  code 12 97 48 255 96 0 82 96 2 96 30 243 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 10009764
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 10
+   gasprice 1
+   gas 600000
+   data 16 97 48 255 96 0 82 96 0 96 2 96 30 96 1 245 0
+test CREATE2_Suicide_d7g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000
+  code 12 97 48 255 96 0 82 96 2 96 30 243 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000068057
+  code 0
+ addr 0x6295ee1b4f6dd65047762f924ecd367c17eabf8f
+  acc_nonce 2
+  balance 9
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999931933
+  code 12 97 48 255 96 0 82 96 2 96 30 243 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 10009764
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 10
+   gasprice 1
+   gas 600000
+   data 62 106 97 48 255 96 0 82 96 2 96 30 243 96 0 82 96 0 96 11 96 21 96 1 245 80 96 0 96 0 96 0 96 0 96 0 115 108 208 229 19 55 113 130 61 160 13 76 181 69 236 140 218 176 227 130 3 98 2 73 240 241 0
+test CREATE2_Suicide_d8g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000
+  code 12 97 48 255 96 0 82 96 2 96 30 243 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000237236
+  code 0
+ addr 0x5649527a8464a86cae579719d347065f6eb27279
+  acc_nonce 1
+  balance 0
+  code 3 96 1 255
+ addr 0x6295ee1b4f6dd65047762f924ecd367c17eabf8f
+  acc_nonce 2
+  balance 10
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999762754
+  code 12 97 48 255 96 0 82 96 2 96 30 243 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 10009764
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 10
+   gasprice 1
+   gas 600000
+   data 61 107 98 96 1 255 96 0 82 96 3 96 29 243 96 0 82 96 0 96 12 96 20 96 0 245 80 96 0 96 0 96 0 96 0 115 86 73 82 122 132 100 168 108 174 87 151 25 211 71 6 95 110 178 114 121 98 2 73 240 250 0
+test CREATE2_Suicide_d9g0v0_Istanbul
+pre
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000000000000
+  code 12 97 48 255 96 0 82 96 2 96 30 243 0
+post
+ addr 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  acc_nonce 0
+  balance 2000000000000237248
+  code 0
+ addr 0x5649527a8464a86cae579719d347065f6eb27279
+  acc_nonce 1
+  balance 1
+  code 3 96 1 255
+ addr 0x6295ee1b4f6dd65047762f924ecd367c17eabf8f
+  acc_nonce 2
+  balance 9
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 999999762742
+  code 12 97 48 255 96 0 82 96 2 96 30 243 0
+blocks
+ block 0
+  coinbase 0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba
+  height 1
+  difficulty 131072
+  gaslimit 10009764
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0x0000000000000000000000000000000000000000
+   value 10
+   gasprice 1
+   gas 600000
+   data 61 107 98 96 1 255 96 0 82 96 3 96 29 243 96 0 82 96 0 96 12 96 20 96 1 245 80 96 0 96 0 96 0 96 0 115 86 73 82 122 132 100 168 108 174 87 151 25 211 71 6 95 110 178 114 121 98 2 73 240 250 0

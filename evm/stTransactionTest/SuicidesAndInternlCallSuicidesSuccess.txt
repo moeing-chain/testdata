@@ -1,0 +1,84 @@
+test SuicidesAndInternlCallSuicidesSuccess_d0g0v0_Istanbul
+pre
+ addr 0x0000000000000000000000000000000000000000
+  acc_nonce 0
+  balance 0
+  code 4 96 1 255 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 180000
+  code 0
+ addr 0xc94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000
+  code 21 96 0 96 0 96 0 96 0 96 1 96 0 96 0 53 241 80 96 0 255 0
+post
+ addr 0x0000000000000000000000000000000000000000
+  acc_nonce 0
+  balance 1010
+  code 4 96 1 255 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 146109
+  code 0
+ addr 0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 2000000000000033881
+  code 0
+blocks
+ block 0
+  coinbase 0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  height 1
+  difficulty 131072
+  gaslimit 10009764
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0xc94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   value 10
+   gasprice 1
+   gas 150000
+   data 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 85 240
+test SuicidesAndInternlCallSuicidesSuccess_d1g0v0_Istanbul
+pre
+ addr 0x0000000000000000000000000000000000000000
+  acc_nonce 0
+  balance 0
+  code 4 96 1 255 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 180000
+  code 0
+ addr 0xc94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 1000
+  code 21 96 0 96 0 96 0 96 0 96 1 96 0 96 0 53 241 80 96 0 255 0
+post
+ addr 0x0000000000000000000000000000000000000001
+  acc_nonce 0
+  balance 1
+  code 0
+ addr 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 1
+  balance 148198
+  code 0
+ addr 0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  acc_nonce 0
+  balance 2000000000000031792
+  code 0
+blocks
+ block 0
+  coinbase 0xb94f5374fce5edbc8e2a8697c15331677e6ebf0b
+  height 1
+  difficulty 131072
+  gaslimit 10009764
+  timestamp 1000
+  tx 0
+   from 0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   nonce 0
+   to 0xc94f5374fce5edbc8e2a8697c15331677e6ebf0b
+   value 10
+   gasprice 1
+   gas 150000
+   data 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 170 240
